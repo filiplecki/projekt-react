@@ -1,4 +1,3 @@
-"use client";
 import Offers, { Categories } from "./list";
 import Link from 'next/link';
 import { useState } from "react";
